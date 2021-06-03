@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble representation to the honourable the commons of England assembled in Parliament, in relation to the importation of sail cloath from Holland.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24492</idno><idno type="EEBO-CITATION">99882369</idno>
+  <idno type="VID">186264</idno>
+  <idno type="EEBO-PROQUEST">2264205744</idno>
+  
+            <idno type="STC">Wing H3644</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[63]</idno>
+            <idno type="STC">ESTC N54504</idno>
+            <idno type="PROQUEST">ocm99882369</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882369e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186264)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble representation to the honourable the commons of England assembled in Parliament, in relation to the importation of sail cloath from Holland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1696 and 1713].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated 1696? by Wing and 1713? by NNC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Foreign trade regulation --  Early works to 1800.</term>
+               <term type="topical_term">Linen industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186264:1"/>
+            <head>An Humble Representation to the Honourable the Commons of <hi>England</hi> Assembled in Parliament, In relation to the Importation of <hi>Sail Cloath</hi> from <hi>Holland.</hi>
+            </head>
+            <p>AT the time of the Prohibition with <hi>France</hi> in King <hi>Charles</hi> the Second's Reign, the <hi>French</hi> had in a manner the sole Trade of <hi>Sail Cloath,</hi> and very little was made in <hi>Holland.</hi> But since then the <hi>Dutch</hi> have so greatly improved that Manufacture, and arrived at such perfection in the making there<g ref="char:EOLhyphen"/>of, that at this very day they furnish all their neighbouring Nations with Canvas for Sails, and the <hi>French</hi> have utterly lost that Trade. By which means <hi>Holland</hi> does now draw from this Kingdom a<g ref="char:EOLhyphen"/>bove Two Hundred Thousand Pounds a Year for this one Commodity, which might be prevented, in giving Encouragement to the making of Sail Cloath in <hi>England,</hi> which already is begun in several parts of this Kingdom, and brought to good perfection; and it is humbly hoped the Consideration thereof, will deserve the Favour and Countenance of this Honourable House: For the Reasons following, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The setting up this Manufacture will improve the Lands of <hi>England,</hi> and Employ many Thousands of Poor, by setting them to work, and thereby enable them to maintain their Families, and also support great numbers of Seamen and Souldiers Wives, in the absence of their Husbands abroad in the King's Service, by Earning their Bread in the Spining Trade, of which above Two Hundred are now employed in one work of this kind near this City, and many more in the Country.</item>
+               <item>2. If this Manufacture find Encouragement at Home, should a War happen at any time with <hi>Holland,</hi> we may then be supplied with Sail Cloath of our own production, which otherwise may prove very difficult to be had in such Quantities, as will enable the setting out the Navy Royal to Sea.</item>
+               <item>3. By making of this Manufacture, and bringing it to perfection, we shall lessen considera<g ref="char:EOLhyphen"/>bly the over Ballance of our Trade with <hi>Holland</hi> (which is none of the least Evils that attend us) and thereby prevent the Expence of so great a Summ from going Abroad, and Employ the same at Home, in one of the best and usefullest Manufactures to this Nation.</item>
+            </list>
+            <p>If therefore this Honourable House shall so think fit, it is humbly proposed that some further Duty may be Charged on all Sail Cloath Imported, and that his Majesty may be addressed to encou<g ref="char:EOLhyphen"/>rage the making of this Manufacture in <hi>England,</hi> by signifying his Royal Pleasure for the buying all such <hi>English</hi> made Sail Cloath as can be provided for the use of his Navy, and the same being of equal goodness with <hi>Hollands</hi> Cloath, may have such preference as his Majesty shall think fit: Which Encouragement is not doubted but will, in a few Years, enable the Manufacturers of this Commodi<g ref="char:EOLhyphen"/>ty, to supply the Nation at Home, as well as the Plantations Abroad.</p>
+            <p>Note, <hi>That</hi> Sail Cloath, <hi>when Imported, is always Entered as</hi> Vittery Canvas, <hi>which is Rated to pay</hi> 5 s. <hi>Subsidy, and</hi> 2 s. 6 d. <hi>Additional Duty, so that when the Deductions of</hi> 5 <hi>and</hi> 10 l. per Cent. <hi>are taken off, it pays but</hi> 6 s. 8 d. <hi>for every Hundred Ells, which is of the Value of Fifteen Pounds to be sold here.</hi>
+            </p>
+            <p>☞ From whence please to observe, that this Commodity does pay little above Two <hi>per Cent.</hi> whereas all other Commodities not Rated, do now pay at Value 10 l. <hi>per Cent.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186264:2"/>
+            <p>Reasons for Encourage<g ref="char:EOLhyphen"/>ing the making of Sail Cloath in <hi>England,</hi> without having it from <hi>Holland.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
